@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Winipedia
-- 👀 I’m interested in all kinds of coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me winipedia@gmx.de
+- 👀 I’m interested in Software, Data and Complex Problem Solving
 
 <!---
 Winipedia/Winipedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
