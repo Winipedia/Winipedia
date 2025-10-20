@@ -3,13 +3,13 @@
 ### *Mathematician | Software Developer | Data Analyst | Builder of Useful Things*
 
 Hi there 👋 I’m **Winipedia** — a name inspired by my curiosity and drive to *know and build everything*.
-I’m a **software developer**, **data scientist**, and **mathematics graduate** passionate about turning ideas into real, efficient, and elegant code.
+I’m a **software developer**, **data scientist**, and **mathematician** passionate about turning ideas into real, efficient, and elegant code.
 
 ---
 
 ## 🧩 About Me
 I build tools, utilities, and apps that I am interested in. I am way to obsessed with abstraction and never doing anything twice
-and like all devs I have an urge to automate everything that can be automated. (basically everything)
+and like all devs I have an urge to automate everything that can be automated. (so basically everything)
 
 ---
 
@@ -25,15 +25,6 @@ R · JavaScript · Java · HTML (#isItEvenAProgramingLangauge?)
 
 ---
 
-## ⚙️ What I Build
-
-* 🧰 **Utility Libraries** — General-purpose Python packages like [`winipedia_utils`](https://github.com/Winipedia/winipedia_utils) and [`winipedia_django`](https://github.com/Winipedia/winipedia_django)
-* 🪶 **Desktop Apps** — Modern, minimal, and cross-platform tools with **PySide6**
-* 🧮 **Mathematical & Analytical Projects** — Applying theory to practice with real-world data
-* 🌐 **API & Data Integration** — Streamlining imports from sources like Google Ads, LinkedIn, and Facebook Graph APIs
-
----
-
 ## 🚀 Highlight Projects
 
 | Project                                                               | Description                                                   | Tech             |
@@ -43,9 +34,6 @@ R · JavaScript · Java · HTML (#isItEvenAProgramingLangauge?)
 | [**winipedia_django**](https://github.com/Winipedia/winipedia_django) | A set of practical Django utilities for modern web apps       | Python · Django  |
 | [**video_vault**](https://github.com/Winipedia/video_vault)           | A desktop app to download and organize videos for offline use | PySide6 · Python |
 
----
-
----
 
 ⭐️ *If you like my work, feel free to follow me or check out my repositories — I’m always open to collaboration and new ideas!*
 
