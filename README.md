@@ -1,15 +1,14 @@
-# 🧠 “Winipedia”
+# “Winipedia”
 
-### *Software Developer | Mathematician | Data Analyst | Builder of Useful Things*
+### *Software Developer and Engineer | Mathematician | Data Analyst*
 
-I’m **Winipedia** — a name inspired by my curiosity and drive to *know and build everything*.
-I’m a **software developer**, **data scientist**, and **mathematician** passionate about turning ideas into real, efficient, and elegant code.
+I’m **Winipedia** - a name inspired by being a know-it-all and always trying to figure out every detail.
 
 ---
 
 ## About Me
-I build tools, utilities, and apps that I am interested in. I am way to obsessed with abstraction and never doing anything twice
-and like all devs I have an urge to automate everything that can be automated. (so basically everything)
+I build tools, utilities, and apps that I am interested in. 
+I like to never write any code twice and automating everything I can
 
 ---
 
