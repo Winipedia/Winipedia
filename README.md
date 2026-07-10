@@ -1,4 +1,4 @@
-# Hi, I’m Winipedia - Software Engineer
+# Hi, I’m Winipedia - Software Engineer and Developer
 
 ## About me
 I enjoy building tools and to figure out the logic in my code.
@@ -11,5 +11,5 @@ I am way to obsessive and can not help myself to make every little improvement t
 - You should install Linux
 
 ## My Projects
-- [Pyrig](https://github.com/Winipedia/pyrig)** — A tool to initialize, develop and maintain a Python project
+- **[Pyrig](https://github.com/Winipedia/pyrig)** — A tool to initialize, develop and maintain a Python project
 
