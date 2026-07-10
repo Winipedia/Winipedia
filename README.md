@@ -1,17 +1,15 @@
-# “Winipedia”
+# Hi, I’m Winipedia - Software Engineer
 
-### *Software Developer and Engineer | Mathematician | Data Analyst*
+## About me
+I enjoy building tools and to figure out the logic in my code.
+I am way to obsessive and can not help myself to make every little improvement to my code base that I come up with.
 
-I’m **Winipedia** - a name inspired by being a know-it-all and always trying to figure out every detail.
 
----
+## Hot and Cold Takes
+- Let's talk less about Vibe-Coding and more about Vibe-Documenting
+- Programming in Python is just more fun
+- You should install Linux
 
-## About Me
-I build tools, utilities, and apps that I am interested in. 
-I like to never write any code twice and automating everything I can
+## My Projects
+- [Pyrig](https://github.com/Winipedia/pyrig)** — A tool to initialize, develop and maintain a Python project
 
----
-
-*If you like my work, feel free to follow me or check out my repositories — I’m always open to collaboration and new ideas!*
-
----
