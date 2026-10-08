@@ -9,5 +9,5 @@
 - You should install Linux
 
 ## My Projects
-- **[pyrig](https://github.com/Winipedia/pyrig)** — A tool to initialize, develop and maintain a Python project
+- **[pyrig](https://github.com/Winipedia/pyrig)** — A Python project setup and management tool built on infrastructure as code and convention over configuration.
 
