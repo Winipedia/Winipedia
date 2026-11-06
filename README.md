@@ -4,7 +4,7 @@
 - I enjoy building tools and stuff...
 
 ## Hot and Cold Takes
-- Vibe-Coding < Vibe-Documenting
+- Vibe-Coding &lt; Vibe-Documenting
 - Programming in Python is just more fun
 - You should install Linux
 
